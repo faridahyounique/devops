@@ -9,5 +9,5 @@
 * **License:**  
   [![LICENSE](https://img.shields.io/github/license/faridahyounique/devops.svg?style=flat-square)](https://github.com/faridahyounique/devops/blob/master/LICENSE)
 
-* **Release:**  
+* Release:  
   [![Releases](https://img.shields.io/github/release/faridahyounique/devops/all.svg?style=flat-square)](https://github.com/faridahyounique/devops/releases)
